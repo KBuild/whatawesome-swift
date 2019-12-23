@@ -1,0 +1,5 @@
+#!/bin/sh
+
+export GITHUB_ACCESS_TOKEN=xxxxxxxxxxxxxxx
+export GITHUB_USERNAME=username
+npm run start
